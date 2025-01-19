@@ -1,0 +1,15 @@
+.left-block a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  margin-bottom: 8px;
+}
+
+aside {
+  height: auto;
+}
+
+
+.btn-group {}
+
+.left-block button {}
